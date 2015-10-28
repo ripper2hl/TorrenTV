@@ -1,4 +1,4 @@
-# [TorrenTV](https://github.com/torrentv/torrentv)
+# [TorrenTV](https://github.com/torrentv/torrentv) [![Dependency Status](https://david-dm.org/ripper2hl/TorrenTV.svg)](https://david-dm.org/ripper2hl/TorrenTV) [![devDependency Status](https://david-dm.org/ripper2hl/TorrenTV/dev-status.svg)](https://david-dm.org/ripper2hl/TorrenTV#info=devDependencies)
 
 ![](https://i.cloudup.com/lML9s1g0Ke.png)
 
