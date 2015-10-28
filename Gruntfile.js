@@ -56,6 +56,10 @@ module.exports = function(grunt) {
 		}
 	});
 
+	grunt.registerTask('start-linux-64', function() {
+		grunt.task.run('exec:linux64');
+	});
+
   grunt.initConfig({
 		nodewebkit: {
 			options: {
